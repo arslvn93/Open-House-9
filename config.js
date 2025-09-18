@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "6 Candow Crescent",
     "city": "Ottawa",
@@ -94,6 +94,6 @@
     "repoName": "Open-House-9",
     "repoUrl": "https://github.com/arslvn93/Open-House-9",
     "tag": "Open House 6 Candow Crescent",
-    "siteId": "1059709497"
+    "siteId": "74ec108a-3d01-4845-8385-3e2380e10fba"
   }
 }
